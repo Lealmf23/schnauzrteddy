@@ -42,7 +42,7 @@ function App() {
             />
             <Card
                 description='¿Colaboramos? Escríbenos y hagamos algo increíble juntos.'
-                linkUrl='mailto:schnauzr.teddy@gmail.com'
+                linkUrl='https://forms.gle/72njPrtPzYcx1HzBA'
                 imageUrl={Teddy4}
                 redSocial='bi-envelope'
                 colorRed='bg-orange-700'
